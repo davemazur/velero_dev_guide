@@ -1,4 +1,4 @@
-## TAM Lab Playbook
+## Velero Lab Playbook
 ## This playbook walks you through setting up a basic velero install/backup/restore
 
 - % kubectl delete namespace velero
@@ -18,7 +18,6 @@
 
 - Install the velero client
 	• % Brew install velero
-	• Already installed
 
 - Test the client install
 	• % velero version
