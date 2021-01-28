@@ -1,7 +1,7 @@
 # installing the velero server using aws as the object store
 export BUCKET=velero-tamlab
 export REGION=us-east-2
-export SECRETFILE=<location of your aws credentials file>/.aws/credentials
+export SECRETFILE=/Users/dmazur/.aws/credentials
 export PREFIX=tamlab-backup
 
 # ----
