@@ -4,6 +4,8 @@ One of the things I find frustrating when starting a new project is struggling t
 
 This guide walks you through required tools and configurations that are needed from a developers standpoint.  This guide makes some assumptions on tools (Docker, Dockerhub, AWS, Mac OSX).  You are free to swap in the tools of your choosing.
 
+
+
 # Install Prerequisite tools and Configuration
 
 ## Tool versions used in creating this document
